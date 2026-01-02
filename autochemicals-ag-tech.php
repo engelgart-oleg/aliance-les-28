@@ -144,6 +144,19 @@ include_once('header-page.php');?>
     padding-bottom: 85px;
   }
 
+  @media (max-width: 768px) {
+    .distributor {
+      padding-bottom: 225px;
+      background-image: url(../img/distributor-bg-2.png);
+      background-size: cover, 375px 264px;
+      background-position: 70% 280px;
+    }
+    .distributor-content {
+      max-width: 100%;
+    }
+  }
+
+
   @media (max-width: 576px) {
     .navbar {
         height: 68px;
@@ -185,7 +198,9 @@ include_once('header-page.php');?>
 
     .distributor {
       padding-top: 48px;
-      padding-bottom: 62px;
+      padding-bottom: 450px;
+      background-size: 300%;
+      background-position: 64% 448px;
     }
     .distributor-container {
       padding-left: 0;
@@ -270,5 +285,20 @@ include_once('header-page.php');?>
     .footer-info {
       margin-bottom: 19px;
     }
+}
+
+@media (max-width: 480px) {
+  .distributor {
+    padding-bottom: 360px;
+    background-position: 70% 490px;
+  }
+}
+
+@media (max-width: 375px) {
+  .distributor {
+    padding-bottom: 315px;
+    background-position: 62% 565px;
+    margin-bottom: 100px;
+  }
 }
 </style>
