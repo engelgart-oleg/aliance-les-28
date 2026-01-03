@@ -75,7 +75,7 @@ include_once('header-page.php');?>
 
 <style>
   .head {
-    padding-top: 76px;
+    padding-top: 93px;
   }
   .repeat-block-title {
     letter-spacing: 0.2px;
@@ -85,7 +85,10 @@ include_once('header-page.php');?>
   }
 
   .research {
-    margin-bottom: 154px;
+    margin-bottom: 151px;
+  }
+  .research-wrapper {
+    margin-bottom: 1.975rem;
   }
 
   /* experts */
@@ -163,7 +166,7 @@ include_once('header-page.php');?>
     }
 
     .head {
-      padding-top: 54px;
+      padding-top: 68px;
     }
     .repeat-block-wrapper {
       padding-left: 0;

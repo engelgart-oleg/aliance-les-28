@@ -21,6 +21,9 @@ include_once('header-page.php');?>
 
 
 <style>
+  .research {
+    margin-bottom: 9.475rem;
+  }
   /* experts */
   .experts-photo-2,
   .experts-photo-3 {

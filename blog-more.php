@@ -142,6 +142,7 @@ include_once('header-page.php');?>
       padding-left: 0;
     }
     .repeat-block-title {
+      letter-spacing: 0;
       margin-bottom: 27px;
     }
     .breadcrumb {
