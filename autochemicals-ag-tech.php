@@ -1,8 +1,5 @@
-
-<?php
-$page_title = 'Автохимия AG-TECH';?>
 <?php 
-echo $page_title_2 = 'Собственные торговые марки';
+$page_title = 'Автохимия AG-TECH';
 include_once('template-parts/repeat-block-image.php');?>
 
 <?php 
@@ -82,6 +79,9 @@ include_once('header-page.php');?>
   }
   .repeat-block-title {
     letter-spacing: 0.2px;
+  }
+  .breadcrumb-link-dn {
+    display: none;
   }
 
   .research {

@@ -63,6 +63,9 @@ include_once('header-page.php');?>
 
 
 <style>
+  .breadcrumb-link-db {
+    display: none;
+  }
   /* experts */
   .experts-content-wrapper {
     align-items: center;
