@@ -38,7 +38,7 @@ include_once('header-page.php');?>
   }
   .swiper-pagination.swiper-pagination-bullets.swiper-pagination-horizontal {
       width: 240px;
-    }
+  }
   .swiper-pagination-bullet:nth-child(6),
   .swiper-pagination-bullet:nth-child(7),
   .swiper-pagination-bullet:nth-child(8),

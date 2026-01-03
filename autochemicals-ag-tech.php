@@ -1,13 +1,10 @@
 <?php 
 $page_title = 'Автохимия AG-TECH';
-include_once('template-parts/repeat-block-image.php');?>
+include_once('template-parts/repeat-block-image.php');
 
-<?php 
 $block_title = 'Собственное производство автохимия AG-Tech';
 include_once('template-parts/about-experts-block.php');
-
 include_once('template-parts/features-slider-block-dark.php');?>
-
 
 <div class="distributor">
   <div class="container distributor-container">
@@ -62,11 +59,9 @@ include_once('template-parts/features-slider-block-dark.php');?>
 </div>
 <!-- /.distributor -->
 
-
 <?php
 $block_title = "Исследовательский центр Aliance production";
 include_once('template-parts/slider-research.php');
-
 include_once('template-parts/section-steps-block.php');
 include_once('template-parts/clients-block.php');
 include_once('header-page.php');?>
@@ -106,7 +101,6 @@ include_once('header-page.php');?>
   .experts-text-1 {
     display: none;
   }
-
 
   .header-features-text-dark {
     margin-top: 24px;

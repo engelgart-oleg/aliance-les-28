@@ -1,4 +1,3 @@
-
 <?php
 $page_title = 'Автомобильная химия';
 include_once('template-parts/repeat-block-image.php');
@@ -10,8 +9,6 @@ include_once('template-parts/features-slider-block-dark.php');
 
 $block_title = "Изготовление автохимии"; 
 include_once('template-parts/production-block-about.php');?>
-
-
 
 <div class="chemicals">
   <div class="container chemicals-container">
@@ -49,8 +46,6 @@ include_once('template-parts/production-block-about.php');?>
   </div>
 </div>
 <!-- /.chemicals -->
-
-
 
 <?php
 $block_title = "Исследовательский центр Aliance production"; 

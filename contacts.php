@@ -43,7 +43,6 @@ include_once('template-parts/repeat-block.php');?>
 </section>
 <!-- /.contacts -->
 
-
 <div class="contacts-map">
   <div class="container contacts-map-container">
     <div style="position:relative;overflow:hidden;">
@@ -53,14 +52,10 @@ include_once('template-parts/repeat-block.php');?>
     </div>
   </div>
 </div>
-
-
-
-
+<!-- /.contacts-map -->
 
 <?php include_once('header-page.php');?>
-<?php include_once('footer.php');?>
-  
+<?php include_once('footer.php');?> 
 
 
 <style>
@@ -114,8 +109,6 @@ include_once('template-parts/repeat-block.php');?>
       margin-bottom: 30px;
     }
   }
-
-
 
   @media (max-width: 576px) {
     .repeat-block {

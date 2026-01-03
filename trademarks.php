@@ -1,8 +1,6 @@
 
 <?php
   $page_title = 'Собственные торговые марки';
-  $repeat_block = "repeat-block";
-
 include_once('template-parts/repeat-block.php');
 include_once('template-parts/trademarks-block.php');
 include_once('header-page.php');?>
