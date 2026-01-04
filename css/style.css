@@ -2471,10 +2471,10 @@ ol .consultation-list-item:nth-child(3)::before {
     display: none;
   }
   .close-menu .mobile-menu-line:nth-child(1) {
-    transform: rotate(45deg) translateY(6px);
+    transform: rotate(45deg) translateY(5px);
   }
   .close-menu .mobile-menu-line:nth-child(3) {
-    transform: rotate(-45deg) translateY(-7px);
+    transform: rotate(-45deg) translateY(-5px);
   }
 
   .steps-item {
